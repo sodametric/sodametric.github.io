@@ -1,2 +1,2 @@
-# sodametric
+# sodametric.github.io
 cool website
